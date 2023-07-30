@@ -46,14 +46,14 @@ To use the side menu bar in your project, you can follow these steps:
 
 1. Include the required CSS and JS files in the `<head>` section of your HTML file.
 
-```html
+```HTML
 <link rel="stylesheet" href="path/to/side-menu-bar.css">
 <script src="path/to/side-menu-bar.js"></script>
 ```
 
 2. Create an HTML element to hold your main content and give it an ID.
 
-```html
+```HTML
 <div id="content">
   <!-- Your main content goes here -->
 </div>
@@ -61,15 +61,15 @@ To use the side menu bar in your project, you can follow these steps:
 
 3. Create a button or any element that will trigger the side menu.
 
-```html
+```HTML
 <button id="menu-button">Menu</button>
 ```
 
 4. Initialize the side menu bar by calling the `initSideMenu()` function in your JavaScript file.
 
-```html
+```HTML
 <script>
-  document.getElementById('menu-button').addEventListener('click', function() {
+  document.getElementById('menu-button).addEventListener('click', function() {
     initSideMenu('content');
   });
 </script>
@@ -83,7 +83,7 @@ You can customize the side menu bar to match your project's design. Open the `si
 
 ```css
 /* Colors */
-:root {
+: root {
   --primary-color: #007bff;
   --background-color: #f8f9fa;
   /* Add more custom variables here */
@@ -98,7 +98,7 @@ You can customize the side menu bar to match your project's design. Open the `si
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request. Please make sure to follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request. Please make sure to follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/abdul-1432) file.
 
 ## License
 
@@ -106,4 +106,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Happy coding! If you have any questions or need assistance, feel free to reach out. Thank you for using the Side Menu Bar template!
+Happy coding! Feel free to reach out if you have any questions or need assistance. Thank you for using the Side Menu Bar template!
