@@ -20,7 +20,7 @@ This is a simple and customizable side menu bar template built using HTML and CS
 
 ## Demo
 
-[View Demo](https://your-demo-link.com)
+[View Demo](https://github.com/abdul-1432/pj-5/blob/main/home.html)
 
 ![Demo](demo.gif)
 
@@ -29,7 +29,7 @@ This is a simple and customizable side menu bar template built using HTML and CS
 1. Clone the repository or download the ZIP file and extract it.
 
 ```bash
-git clone https://github.com/your-username/side-menu-bar.git
+https://github.com/abdul-1432/pj-5
 ```
 
 2. Navigate to the project folder.
